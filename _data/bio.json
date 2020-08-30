@@ -46,9 +46,6 @@
     {
       "name": "Video/Photo Editing",
       "keywords": [
-        "Adobe Premiere",
-        "Adobe Lightroom",
-        "Adobe Photoshop"
       ]
     },
     {
@@ -78,7 +75,10 @@
         "Unix",
         "Git/GitHub",
         "g++",
-        "InteliJ IDEA"
+        "InteliJ IDEA",
+        "Adobe Premiere",
+        "Adobe Lightroom",
+        "Adobe Photoshop"
       ]
     }
   ],
