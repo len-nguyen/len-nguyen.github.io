@@ -14,19 +14,13 @@ labels:
 
 ## First Impressions on JavaScript 
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+When I had started the codecamp, I'd felt that I kept reapeating myself in the same language as Java over and over on the questions until I got sick of it. It was then I finally found something different which peaked my interest because if I wanted to become a software engineer in the future I gotta atleast know my stuff. I really liked how I didn't have to use int,str,arrays,objects anymore since it came in a all-in-one package called "var" which I felt made coding nice to have as it was a quality of life thing for me.
+Until I realized that there were variations to var that are used much more frequently being "let" and "const", but it didn't make that much of a difference since var is used globally whether it's in the function or class while let and const are local and within. But comparing Java and JavaScript on variables, I would say that JavaScript is a definite winner to me. When looking
+at other languages, like Java for example, it uses a OOP scripting language while JavaScript is a OOP programming language. So this means Javascript runs on browser only, while Java creates applications that run in a virtual machine or browser.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+## Is it Good or Bad?
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
 
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
 
 ## In the context of relationships
 
