@@ -20,8 +20,7 @@ at other languages, like Java for example, it uses a OOP scripting language whil
 
 ## Is it Good or Bad?
 
-
-
+Honestly, I think it's a good language to put in your arsenal and if you already know Java then JavaScript shouldn't differ that much and could possibly be easier by not worrying about syntax errors and variables. It offers different types of jobs like web application development and front-end development. Even if this is the first time coding, it starts off easy with learning the basics with a fun and interactive UI and won't make you want to bang your head on the keyboard because of simple errors like forgetting semicolons. JavaScript is a great language to learn at the start to introduce you but learning other languages can help develop your knowledge in coding.
 ## Is Athletic Software Engineering Really For Me?
 <img class="ui small left floated image" src="../images/thinking.png">
 
