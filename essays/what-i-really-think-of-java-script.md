@@ -21,7 +21,8 @@ at other languages, like Java for example, it uses a OOP scripting language whil
 ## Is it Good or Bad?
 
 
-
+<img class="ui image" src="../images/thinking.jpg">
 ## Is Athletic Software Engineering Really For Me?
+
 
 
