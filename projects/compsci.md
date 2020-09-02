@@ -13,4 +13,4 @@ labels:
 summary: All the projects and knowledge I've gathered during my college years
 ---
 
-<img class="ui image" src="../images/code.jpg">
+<img class="ui medium image" src="../images/code.jpg">
