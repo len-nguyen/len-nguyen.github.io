@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/matcha.jpg
 title: Knowing Your Clients
-permalink: projects/micromouse
+permalink: projects/knowing-your-clients
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-01
 labels:
