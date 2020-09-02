@@ -7,10 +7,10 @@ permalink: projects/salty-beaches
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Adobe Lightroom
+  - Adobe Photoshop
+  - Business
+summary: Providing excellent quality of photo editing and knowing how they want their pictures
 ---
 
 <div class="ui small rounded images">
