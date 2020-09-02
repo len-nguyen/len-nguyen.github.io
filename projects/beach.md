@@ -17,4 +17,4 @@ summary: Providing excellent quality of photo editing and knowing how they want 
 
 
 
-You can order from our link (https://rb.gy/lpfndm).
+You can order from our link [Salty Beaches](https://rb.gy/lpfndm).
