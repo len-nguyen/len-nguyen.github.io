@@ -15,7 +15,7 @@ summary: Interacting with customers to make them feel at easeand have a fun nigh
  <img class="ui image" src="../images/restaurant.png">
 
 Kaiseki, often known as a traditional multi-course Japanese dinner is what we serve at a restaurant called NanZan GiroGiro
- <img class="ui medium right floated rounded image" src="../images/food1.jpg">
+ 
  <img class="ui medium right floated rounded image" src="../images/food2.JPG">
 
 
