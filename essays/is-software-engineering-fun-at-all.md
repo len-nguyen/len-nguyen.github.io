@@ -21,6 +21,8 @@ look forward in software engineering.
 
 Currently, my skills in software engineering or in computer science is subpar as I still don't know anything to come that I would need in software engineering in general. When it comes to coding languages, I would love to at least learn the basic of all the different languagees since I only know 5 but that can be easily improved in the future. Teamwork and attention to detail is the most important because not always that I'm not going to be working in a group so having good collaboration skills along with attention to detail allows the group work to be stronger and finish deadlines faster. Employing math, science, engineering, design techniques to be able to build these systems then I have be motivated to learn these skills to further progress my career if I want to be a software engineer.
 
+## Getting the Experience
 
+Experience the most important thing to have in a job in any career path because it shows the employer that you know what's expected in a workplace and how they would typically work daily. Since I don't have much experience in a job setting or programming events I thought it would be a good idea to take on a internship to learn what it's like in the job setting compared to what you learn at school. Continuing to further develop my experience makes me a more likely candidate for hire as having more experience is better than no experience. Preparing for interview questions and having to code on the spot in also something I would keep on building in this class as there are times where I fail to complete the task because I'm currently to slow but hopefully at the end of the semester I'm able to improve my scores further than ever.
 
 
