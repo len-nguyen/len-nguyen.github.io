@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/compsci.jpg
+image: images/computerscience.png
 title: Computer Science
 permalink: projects/computer-science
 # All dates must be YYYY-MM-DD format!
