@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/matcha.jpg
+image: images/foodlogo.png
 title: Knowing Your Clients
 permalink: projects/knowing-your-clients
 # All dates must be YYYY-MM-DD format!
