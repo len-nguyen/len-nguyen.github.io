@@ -19,6 +19,8 @@ look forward in software engineering.
 
 ## Skills Needed For The Future
 
+Currently, my skills in software engineering or in computer science is subpar as I still don't know anything to come that I would need in software engineering in general. When it comes to coding languages, I would love to at least learn the basic of all the different languagees since I only know 5 but that can be easily improved in the future. Teamwork and attention to detail is the most important because not always that I'm not going to be working in a group so having good collaboration skills along with attention to detail allows the group work to be stronger and finish deadlines faster. Employing math, science, engineering, design techniques to be able to build these systems then I have be motivated to learn these skills to further progress my career if I want to be a software engineer.
+
 
 
 
