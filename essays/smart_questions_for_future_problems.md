@@ -16,3 +16,4 @@ labels:
 
 [good question](https://stackoverflow.com/questions/63783935/python-how-to-get-the-max-value-of-dictionary-keys-in-list-of-dictionaries)
 [bad question](https://stackoverflow.com/questions/63784353/php-counting-the-number-of-a-specific-word-in-an-array)
+[bad question](https://stackoverflow.com/questions/13729143/python-help-again)
