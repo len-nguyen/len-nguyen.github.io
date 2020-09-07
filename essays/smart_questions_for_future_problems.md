@@ -12,7 +12,7 @@ labels:
 ## What Is A Smart Question?
 
 
-## Smart Vs. Not Smart
+## Smart vs. Not Smart
 
 
 [bad question](https://stackoverflow.com/questions/63784353/php-counting-the-number-of-a-specific-word-in-an-array)
