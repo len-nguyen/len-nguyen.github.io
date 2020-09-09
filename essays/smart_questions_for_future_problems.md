@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Smart Questions for Future Problems
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-27
+date: 2020-09-08
 labels:
   - Stack Overflow
   - ICS 314
@@ -11,6 +11,7 @@ labels:
 
 ## What Is A Smart Question?
 
+When in need of looking for a solution to your suffering of errors in programming, you would ask others for help and that's what Stack Overflow is there for. Simply just asking for help may not get you the answer that you were seeking for and that's because the way to asked and presented the question to the world of programmers willing to help. But what's the difference between a "smart" question vs to a "not smart" question. Well if you look at [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Raymond, he discusses the key differences between asking someone a smart question vs dumb questions
 
 ## Smart vs. Not Smart
 
