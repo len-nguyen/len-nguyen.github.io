@@ -15,7 +15,7 @@ When in need of looking for a solution to your suffering of errors in programmin
 
 ## Smart vs. Not Smart
 
-<img class="ui right floated image" src="../images/smart_question.PNG"> 
+<img class="ui medium right floated image" src="../images/smart_question.PNG"> 
 Looking at this [smart question](https://stackoverflow.com/questions/364952/jquery-javascript-accessing-contents-of-an-iframe)
 
 
