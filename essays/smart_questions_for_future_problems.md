@@ -15,6 +15,9 @@ When in need of looking for a solution to your suffering of errors in programmin
 
 ## Smart vs. Not Smart
 
-[good question](https://stackoverflow.com/questions/364952/jquery-javascript-accessing-contents-of-an-iframe)
-[bad question](https://stackoverflow.com/questions/63784353/php-counting-the-number-of-a-specific-word-in-an-array)
+<img class="ui right floated image" src="../images/smart_question.PNG"> 
+Looking at this [smart question](https://stackoverflow.com/questions/364952/jquery-javascript-accessing-contents-of-an-iframe)
+
+
+[bad question](https://stackoverflow.com/questions/63805408/how-random-quiz-array-android-studio)
 [bad question](https://stackoverflow.com/questions/13729143/python-help-again)
