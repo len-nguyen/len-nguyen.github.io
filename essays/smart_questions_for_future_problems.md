@@ -29,8 +29,8 @@ Looking at this [smart question](https://stackoverflow.com/questions/364952/jque
 
 Now here are two exmaples of "not smart" questions on Stack Overflow, looking at the first picture there were many problems when this person was asking a question. First was the header being not clear and grammatical. You can tell that English is not their first language by the code they provided have comments not in English but ignore the fact of mentioning that they may not be good at it and there may be some errors in spelling. Another big problem in this question is that they wanted other people to do their work when they have never tried and figure out some sort of solutions themselves which is a big turn off to programmers on Stack Overflow. Also not explaining the code and what you clearly want is very vague and could mean anything to programmers. On the next "not smart" question, there are similarities between this question and the previous where the header is not explaining and just saying "Phython Help Again". Many of the users on Stack Overflow have commented on the question saying that ther person have never tried and didn't meet their expectations. Having showing code that does not work at all with the person claiming it works is also another red flag. 
 
-  <img class="ui medium left floated image" src="../images/bad_question.PNG">
-  <img class="ui medium left floated image" src="../images/bad_question2.PNG">
+  <img class="ui small left floated image" src="../images/bad_question.PNG">
+  <img class="ui small left floated image" src="../images/bad_question2.PNG">
 
 
 When comparing both the "smart" and "not smart" questions, it's very clear how simply changing the way you ask can mean a difference on the answer you receive and the quality of it. Stack Overflow also have a FAQ on how to post questions properly just like Eric Raymond page explaining what you can do for your questions. Knowing how to make my questions "smart" can help me in the future when I would run into complex problems where after troubleshooting still run into issues.
