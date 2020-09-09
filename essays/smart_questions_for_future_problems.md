@@ -16,8 +16,12 @@ When in need of looking for a solution to your suffering of errors in programmin
 ## Smart vs. Not Smart
 
 <img class="ui medium right floated image" src="../images/smart_question.PNG"> 
-Looking at this [smart question](https://stackoverflow.com/questions/364952/jquery-javascript-accessing-contents-of-an-iframe)
+Looking at this [smart question](https://stackoverflow.com/questions/364952/jquery-javascript-accessing-contents-of-an-iframe), the one posting the question clearly states what kind of language/program that they are currently having trouble with in the header so it lets anyone who is proficient in the language can help more easily. After he goes into more detail on what they needed and even showed their code to let people know that it was worked on. Then later states what the output was and if there were any errors so people answering don't need to recreate the problem and have a different answer. But there are way's to make this question even better than is. Maybe a simple "thank you" and "hello" with a bit clearer formatting that can go a long way but there are alot of good people willing to help others in need.
 
+
+
+<img class="ui medium right floated image" src="../images/bad_question.PNG"> 
+<img class="ui medium right floated image" src="../images/bad_question2.PNG"> 
 
 [bad question](https://stackoverflow.com/questions/63805408/how-random-quiz-array-android-studio)
 [bad question](https://stackoverflow.com/questions/13729143/python-help-again)
