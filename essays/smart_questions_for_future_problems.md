@@ -19,15 +19,8 @@ When in need of looking for a solution to your suffering of errors in programmin
 Looking at this [smart question](https://stackoverflow.com/questions/364952/jquery-javascript-accessing-contents-of-an-iframe), the one posting the question clearly states what kind of language/program that they are currently having trouble with in the header so it lets anyone who is proficient in the language can help more easily. After he goes into more detail on what they needed and even showed their code to let people know that it was worked on. Then later states what the output was and if there were any errors so people answering don't need to recreate the problem and have a different answer. But there are way's to make this question even better than is. Maybe a simple "thank you" and "hello" with a bit clearer formatting that can go a long way but there are alot of good people willing to help others in need.
 
 
-
-
-
-
-
-
-
 <div class="ui medium right images">
   <img class="ui image" src="../images/bad_question.PNG">
   <img class="ui image" src="../images/bad_question2.PNG">
 </div>
-Now here are two exmaples of "not smart" questions on Stack Overflow, 
+Now here are two exmaples of "not smart" questions on Stack Overflow, looking at the first picture there were many problems when this person was asking a question. First was the header being not clear and grammatical. YOu can tell that English is not their first language by the code they provided have comments not in English but ignore the fact of mentioning that they may not be good at it and there may be some errors in spelling. Another big problem in this question is that they wanted other people to do their work when they have never tried and figure out some sort of solutions themselves which is a big turn off to programmers on Stack Overflow. Also not explaining the code and what you clearly want is very vague and could mean anything to programmers. 
