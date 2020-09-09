@@ -15,6 +15,6 @@ When in need of looking for a solution to your suffering of errors in programmin
 
 ## Smart vs. Not Smart
 
-[good question](https://stackoverflow.com/questions/63783935/python-how-to-get-the-max-value-of-dictionary-keys-in-list-of-dictionaries)
+[good question](https://stackoverflow.com/questions/364952/jquery-javascript-accessing-contents-of-an-iframe)
 [bad question](https://stackoverflow.com/questions/63784353/php-counting-the-number-of-a-specific-word-in-an-array)
 [bad question](https://stackoverflow.com/questions/13729143/python-help-again)
