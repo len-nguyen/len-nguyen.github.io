@@ -20,6 +20,12 @@ Looking at this [smart question](https://stackoverflow.com/questions/364952/jque
 
 
 
-<img class="ui medium right floated image" src="../images/bad_question.PNG"> 
-<img class="ui medium right floated image" src="../images/bad_question2.PNG"> 
+
+
+
+
+
+
+<img class="ui medium left floated image" src="../images/bad_question.PNG"> 
+<img class="ui medium left floated image" src="../images/bad_question2.PNG"> 
 Now here are two exmaples of "not smart" questions on Stack Overflow, 
