@@ -22,6 +22,4 @@ Looking at this [smart question](https://stackoverflow.com/questions/364952/jque
 
 <img class="ui medium right floated image" src="../images/bad_question.PNG"> 
 <img class="ui medium right floated image" src="../images/bad_question2.PNG"> 
-
-[bad question](https://stackoverflow.com/questions/63805408/how-random-quiz-array-android-studio)
-[bad question](https://stackoverflow.com/questions/13729143/python-help-again)
+Now here are two exmaples of "not smart" questions on Stack Overflow, 
