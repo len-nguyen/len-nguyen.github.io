@@ -3,14 +3,13 @@ layout: essay
 type: essay
 title: UI Frameworks as a Whole
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-23
+date: 2020-10-08
 labels:
   - UI Frameworks
   - ICS 314
 ---
 
-<img class="ui image" src="../images/code_quality.png"> 
-## Can They Make You A Better Programmer
+## Benefits of Using UI Frameworks?
 When learning a new language or using the same language, the most important thing to remember is how you properly format the code. There are a bunch of ways one can make their code better by implementing some of these coding standards. Like the spacing betweenn curly brackets or how maybe there needs to be some consistency for the variables you make in a function, etc. These types of coding standards can provide benefits to the overall code. It could potentially reduce the risk of failure, easy readability for others, better efficiency, and many more! Coding standards are there for a reason. They are designed to try and make the code you write as maintainable as possible. When working with a team, it's especially important that everyone have the same set of rules so when maybe your stuck on something, another team member can help you figure out the problem easily with the readable code.
 
 ## Experience With Coding Standards
