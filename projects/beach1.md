@@ -17,10 +17,11 @@ summary:  ICS Study Hub is a final project that I had worked on in a group in IC
          to make study sessions with other students.
 ---
 
-<img class="ui medium image" src="../images/product.jpg">
-<img class="ui small right floated image" src="../images/lightroom.png"> 
-<img class="ui small right floated image" src="../images/photoshop.png">
-As my sister had started getting a new hobby over the summer of creating products, I was asked to help her by taking photos of her products to sell. Although, product photography isn't my best suit compared to doing portrait photography but nonetheless I agreed for me to practice as a personal project. Since there was no photos for me given to edit I was tasked to go out and take different types of shots which led me to ask how she wants the final product to look like. With the information given, I took as much raw pictures for me to have variety to give multiple options for what pictures to put on the product page. I then used Lightroom to helps me import, organize, manage, and find my images. Changing the basic modules, tone curves, HSL sliders, etc were all used to add life to the photo. Once finished, I transferred the photo into Photoshop to the fine-tune any blemishes thats present. After finishing, I gave my sister multiple variations of the same photo to pick out which one she liked and the picture above is one of the photos displayed on the product page. Even though that I don't do product photography, it was a fun project to do to help build my skills.
+<img class="ui medium left floated rounded image" src="../images/code.jpg">
+
+ICS Study Hub is the web application that was made in a group of 4 using Meteor, Semantic UI, JavaScript and React which are all frameworks/languages we learned in ICS 314. The purpose of this application is for students to create study sessions that other students can join and in return can potentially earn points which are then used for rewards. This allows students to become more motivated to learn about computer science. Another use of this application is that students can help others by being a "teacher" and help others which is another way a student can earn points.
+
+Throughout the project I worked on both the frontend and the backend of the application, adding admin functionality, creating sessions, listing students onto the leaderboard, improving homepage and navbar capabilities. This project really helped develop my skill in data management and functional programming and introduced me to Agile Project Management by utilizing GitHub Project Board.
 
 
-You can order from our link [Salty Beaches](https://rb.gy/lpfndm).
+You can learn more or view our project on [GitHub](https://github.com/ics-study-hub/ics-study-hub) or our project home page [here](https://ics-study-hub.github.io/).
