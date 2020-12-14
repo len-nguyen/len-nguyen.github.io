@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/static1.squarespace.jpg
+image: images/study-hub.jpg
 title: ICS Study Hub
 permalink: projects/ics-study-hub
 # All dates must be YYYY-MM-DD format!
