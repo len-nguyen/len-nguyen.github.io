@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/study-hub.jpg
 title: ICS Study Hub
-permalink: projects/ics-study-hub
+permalink: projects/ics-study-hub1
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-13
 labels:

@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/logo.jpg
-title: Salty Beaches
-permalink: projects/salty-beaches1
+image: images/study-hub.jpg
+title: ICS Study Hub
+permalink: projects/ics-study-hub
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-01
 labels:
