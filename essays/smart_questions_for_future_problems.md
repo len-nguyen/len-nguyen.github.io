@@ -35,3 +35,6 @@ Now here are two exmaples of "not smart" questions on Stack Overflow, looking at
 
 When comparing both the "smart" and "not smart" questions, it's very clear how simply changing the way you ask can mean a difference on the answer you receive and the quality of it. Stack Overflow also have a FAQ on how to post questions properly just like Eric Raymond page explaining what you can do for your questions. Knowing how to make my questions "smart" can help me in the future when I would run into complex problems where after troubleshooting still run into issues.
  
+## End of Class Update
+
+When completing my project for ICS 314, there were a bunch of problems that I would have run through and using smart questions was a quick way to figure out the source of the problem and how to solve it by saying about the details of the problem and what you did so far to figure it out.

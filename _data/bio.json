@@ -24,11 +24,6 @@
         "network": "linkedin",
         "username": "len-nguyen",
         "url": "http://linkedin.com/in/len-nguyen-2139261b4"
-      },
-      {
-        "network": "instagram",
-        "username": "lenenenene",
-        "url": "http://instagram.com/lenenenene"
       }
     ]
   },
@@ -63,7 +58,13 @@
         "C++",
         "Java",
         "Javascript",
-        "SQL"
+        "SQL",
+        "Meteor",
+        "React",
+        "CSS",
+        "HTML",
+        "Semantic UI",
+        "MongoDB"
       ]
     },
     {

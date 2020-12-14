@@ -26,3 +26,6 @@ Honestly, I think it's a good language to put in your arsenal and if you already
 Practing in Athletic Software Engineering is a good thing for us college students since it 
 helps prepare what we will have to do in the future like job interviews where they would ask to write something in pseudocode and explain it within a time limit. Personally, I find it sometimes stressful because I would take most of my time understanding the problem and how should I approach it before I even touch my keyboard and start to panic how much time I have left. But the real world doesn't wait for you, so getting used to being under pressure helps us in the long run where our dream job is right there but your having a hard time solving a problem in the time limit. Hopefully I can get better at pacing myself in future problems to prevent myself from panicing for not even starting the code when I only have a minute left.
 
+## End of Class Update
+
+When completing all of the WODS throughout the course in ICS 314, I feel more comfortable now then when I first started and think it still is a good thing to have this environment to make people more comfortable with it as it can be useful in interviews. On with Javascript being as a first language to learn is a good way to learn about coding and other things.
