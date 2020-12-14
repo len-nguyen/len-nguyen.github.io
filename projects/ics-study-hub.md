@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/study-hub.jpg
+image: images/static1.squarespace.jpg
 title: ICS Study Hub
 permalink: projects/ics-study-hub
 # All dates must be YYYY-MM-DD format!
@@ -17,7 +17,7 @@ summary:  ICS Study Hub is a final project that I had worked on in a group in IC
          to make study sessions with other students.
 ---
 
-<img class="ui medium left floated rounded image" src="../images/code.jpg">
+<img class="ui medium left floated rounded image" src="../images/homepage.png">
 
 ICS Study Hub is the web application that was made in a group of 4 using Meteor, Semantic UI, JavaScript and React which are all frameworks/languages we learned in ICS 314. The purpose of this application is for students to create study sessions that other students can join and in return can potentially earn points which are then used for rewards. This allows students to become more motivated to learn about computer science. Another use of this application is that students can help others by being a "teacher" and help others which is another way a student can earn points.
 
