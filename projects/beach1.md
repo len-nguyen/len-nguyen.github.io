@@ -5,13 +5,16 @@ image: images/study-hub.jpg
 title: ICS Study Hub
 permalink: projects/ics-study-hub
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-01
+date: 2020-12-13
 labels:
-  - Adobe Lightroom
-  - Adobe Photoshop
-  - Photography
-  - Business
-summary: Providing excellent quality of photo editing and knowing how they want their pictures
+   - Meteor
+   - React
+   - JavaScript
+   - Semantic UI
+   - CSS/HTML
+   - ICS 314
+summary:  ICS Study Hub is a final project that I had worked on in a group in ICS 314 that allows students
+         to make study sessions with other students.
 ---
 
 <img class="ui medium image" src="../images/product.jpg">
