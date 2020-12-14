@@ -19,11 +19,9 @@ to make study sessions with other students.
 
 <img class="ui medium left floated rounded image" src="../images/code.jpg">
 
-<img class="ui medium right floated rounded image" src="../images/tx-landing.png" />
+ICS Study Hub is the web application that was made in a group of 4 using Meteor, Semantic UI, JavaScript and React which are all frameworks/languages we learned in ICS 314. The purpose of this application is for students to create study sessions that other students can join and in return can potentially earn points which are then used for rewards. This allows students to become more motivated to learn about computer science. Another use of this application is that students can help others by being a "teacher" and help others which is another way a student can earn points.
 
-TextXchange is the web application my team and I build using Meteor, Semantic UI, JavaScript and React which are all frameworks/languages we learned in ICS 314. This web application strive to provide a user-friendly experience for UH system's student to purchase or sell textbooks that they use for class.
-
-For this project I worked mostly in the backend of the application, such as implementing the search filtering, edit books, email verification and admin functionality. This project really helped develop my skill in data management and functional programming and introduced me to Agile Project Management by utilizing GitHub Project Board.
+Throughout the project I worked on both the frontend and the backend of the application, adding admin functionality, creating sessions, listing students onto the leaderboard, improving homepage and navbar capabilities. This project really helped develop my skill in data management and functional programming and introduced me to Agile Project Management by utilizing GitHub Project Board.
 
 
 You can learn more or view our project on [GitHub](https://github.com/ics-study-hub/ics-study-hub) or our project home page [here](https://ics-study-hub.github.io/).
