@@ -7,16 +7,24 @@ permalink: projects/knowing-your-clients
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-01
 labels:
-  - Restaurant
-  - Business
-summary: Interacting with customers to make them feel at easeand have a fun night which made us successful.
+  - Meteor
+  - React
+  - JavaScript
+  - Semantic UI
+  - CSS/HTML
+  - ICS 314
+summary: ICS Study Hub is a final project that I had worked on in a group in ICS 314 that allows students
+to make study sessions with other students.
 ---
 
- <img class="ui image" src="../images/restaurant.png">
- 
- <img class="ui medium right floated rounded image" src="../images/food2.JPG">
-Kaiseki, often known as a traditional multi-course Japanese dinner is what we serve at a restaurant called Nanzan GiroGiro. While servers and chefs jobs are to take the customer orders and make the food and help run the operation smoothly, we strive for above and beyond by interacting with every customer as the layout of the restaurant is a open-bar. Because of this, our customers would feel relaxed knowing that they are going to have a good time. Learning about every customer allows us to adapt the next time they come and visit the restaurant making their experience even better than last time. There's even benefits for this style of serving like improved customer satisfaction, employee motivation, and operational procedures. No one likes it when the mood is all sour because of something went wrong, but making conversations to listen to the customers improves are support as we can adapt to their liking which is key to making a businesses sucessful. It's great to be part of this team for learning about our customers fun stories and I hope they can come back again 
+<img class="ui medium left floated rounded image" src="../images/code.jpg">
 
+ICS Study Hub is the web application that was made in a group of 4 using Meteor, Semantic UI, JavaScript and React which are all frameworks/languages we learned in ICS 314. The purpose of this application is for students to create study sessions that other students can join and in return can potentially earn points which are then used for rewards. This allows students to become more motivated to learn about computer science. Another use of this application is that students can help others by being a "teacher" and help others which is another way a student can earn points.
+
+Throughout the project I worked on both the frontend and the backend of the application, adding admin functionality, creating sessions, listing students onto the leaderboard, improving homepage and navbar capabilities. This project really helped develop my skill in data management and functional programming and introduced me to Agile Project Management by utilizing GitHub Project Board.
+
+
+You can learn more or view our project on [GitHub](https://github.com/ics-study-hub/ics-study-hub) or our project home page [here](https://ics-study-hub.github.io/).
  
 
 
