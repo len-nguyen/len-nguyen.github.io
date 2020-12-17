@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Wonders of Software Engineering
 # All dates must be YYYY-MM-DD format!
-date: 2020-12-13
+date: 2020-12-16
 labels:
   - Software Engineering
   - ICS 314
